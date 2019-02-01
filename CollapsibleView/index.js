@@ -96,5 +96,10 @@ CollapsibleView.propTypes = {
 };
 
 const styles = StyleSheet.create({
-  iconPosition: { position: "absolute", right: 10 }
+  iconPosition: {
+    position: "absolute",
+    right: 10,
+    alignItems: "center",
+    width: "9%"
+  }
 });
