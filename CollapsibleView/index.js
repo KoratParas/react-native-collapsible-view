@@ -10,7 +10,7 @@ import PropTypes from "prop-types";
 
 export default class CollapsibleView extends Component {
   animationObject = {
-    height: new Animated.Value(),
+    height: new Animated.Value(0),
     collapsed: false,
     contentHeight: 0
   };
