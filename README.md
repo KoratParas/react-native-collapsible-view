@@ -2,7 +2,7 @@
 
 ## Getting started
 
-`$ npm install npm i react-native-collapsible-view --save`
+`$ npm install react-native-collapsible-view --save`
 
 ## Usage
 
